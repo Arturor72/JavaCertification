@@ -2,6 +2,10 @@
 //La primera clase concreta que extendia de una clase abstracta tiene que implementar todos los metodos 
 //de las ancestras clases abstractas
 public abstract class BigCat extends Animal{
+
+    public BigCat(){
+        System.out.println("Creating BigCat");
+    }
 	public abstract void roar();
 
 }
