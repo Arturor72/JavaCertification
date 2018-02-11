@@ -1,7 +1,7 @@
 // Throwable -> Exception
 // Throwable -> Error
 // Exception -> RuntimeException
-// Existen dos tipos de exception : checked exceptions y unchecked exception
+// Existen dos tipos de exception : checked exception y unchecked exception
 // unchecked exception: generalmente extiende de RuntimeException, excepciones que se generan en tiempo de ejecucion
 // check exception: se controlan en tiempo de desarrollo y compilacion.
 // Los bloques catch se ejecutan en el orden que aparecen y siempre desde las subclases hacia clases padre
