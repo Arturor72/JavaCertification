@@ -1,0 +1,52 @@
+1. C 
+2. B
+3. C x 
+4. D
+5. B
+6. C
+7. D X // Nunca se puede llamar a super o this ambos en un constructor
+8. B
+9. C
+10. A
+11. B
+12. A x // revisar bien el modificador de acceso
+13. B  // si el constructor de la clase padre tiene un parametro, en la clase hija se debe implmentar al menos un constructor
+14. A 
+15. A X //  paso de parametros comno objectos solo puede ser cambiada la data, mas no la referencia.
+16. B
+17. D
+18. A
+19. B
+20. D
+21. D X // revisar public static void main(final String... args)
+22. D
+23. B
+24. C 
+25. A
+26. D
+27. B (P) // pregunta 15
+28. C
+29. A
+30. C (P)
+31. D
+32. C (P) X // llamando a full class
+33. A
+34. B
+35. C
+36. A X // el modificador de acceso debe aparecer al inicio
+37. A 
+38. A
+39. A (P)
+40. B
+41. C
+42. D
+43. A
+44. D
+45. D
+46. A
+47. B X //oden de compilacion
+48. A
+49. B
+50. D
+
+
