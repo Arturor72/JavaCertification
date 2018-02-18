@@ -1,0 +1,51 @@
+1. D
+2. B
+3. D
+4. A
+5. A x
+6. B
+7. A
+8. B
+9. C
+10. C
+11. B 
+12. C
+13. C
+14. C
+15. C
+16. B
+17. A x
+18. A x
+19. D
+20. C
+21. B
+22. A x 
+23. A
+24. D x // Exception no es una subclase
+25. C X
+26. B
+27. C
+28. D
+29. A
+30. D
+31. B
+32. A
+33. A
+34. A X
+35. B
+36. A
+37. D X
+38. C
+39. A X //EN TIEMPO DE COMPILACION UN UNCHECKED
+40. D
+41. C
+42. D
+43. D
+44. D
+45. C
+46. A X
+47. B X
+48. D
+49. C
+50. B
+
