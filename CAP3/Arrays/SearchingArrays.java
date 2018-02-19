@@ -10,6 +10,7 @@ import java.util.Arrays;
 public class SearchingArrays{
     public static void main(String[] args){
         int[] numbers={2,4,6,8} ;
+        //int[] numbers={8,6,4,2} ; // No de mayor a menor
         System.out.println(Arrays.binarySearch(numbers,2));
         System.out.println(Arrays.binarySearch(numbers,4));
         System.out.println(Arrays.binarySearch(numbers,1)); //Deberia ir en la posicion 0, se niega y se resta 1 => -1

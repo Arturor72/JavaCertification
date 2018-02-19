@@ -18,7 +18,7 @@ public class Panda extends Bear{
     public static void main(String...args){
         sneeze();
         new Panda().hibernate();
-        //super.hibernate();
+        //super.hibernate(); // super no puede ser usado en un metodo statico
     
     }
 

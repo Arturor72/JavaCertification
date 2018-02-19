@@ -3,6 +3,7 @@ public class Mouse extends Rodent{
     // y tiene el mismo modificador de acceso pero la oculta. La instancia 
     // del padre siempre llamara a su variable interna
     protected int tailLength=8;
+    private int ab=6;
     public void getMouseDetails(){
         System.out.println("[tail="+tailLength+", parentTail="+super.tailLength+"]");
 

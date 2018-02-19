@@ -9,7 +9,7 @@ public class MultidimensionalArray{
         int[][] vars1; // 2d
         int vars2 [][]; // 2d
         int [] vars3[]; // 2d
-        int[] vars4, space[][]; // 2d and 3d
+        int[] vars4, space[][]; // 1d and 3d
     }
 
     private static void differentSizeArray(){

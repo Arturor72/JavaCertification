@@ -1,0 +1,50 @@
+1. C 
+2. D
+3. C
+4. B 
+5. A
+6. D X // Interface
+7. B (P)
+8. A X //Si via interfaces
+9. C
+10. C
+11. B X // Si es private, no se puede ver, si es final no se debe intentar sobreescribir
+12. A
+13. B
+14. C
+15. B
+16. D
+17. D
+18. A X
+19. C X // Covariant, el mismo tipo de retorno o una subclase
+20. C
+21. A
+22. B
+23. D
+24. A  // leer mejor
+25. B
+26. B
+27. C (P)
+28. C (P)
+29. B X // se puede hacer multiples cast
+30. C
+31. D X //static>static hidden sin static >sinstatic override
+32. C
+33. B
+34. C
+35. D
+36. B
+37. C
+38. B // virtual method no tiene que ser privado, final o static
+39. B
+40. A
+41. D
+42. C
+43. A
+44. C X
+45. D
+46. D (p) X
+47. D
+48. C X
+49. B C (P)
+50. C

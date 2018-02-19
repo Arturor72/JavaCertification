@@ -1,0 +1,51 @@
+1. C 
+2. D
+3. D
+4. B
+5. B
+6. C
+7. B x // sb no existe
+8. A
+9. C
+10. D
+11. D
+12. B x //leer metodo
+13. A x //lambdas
+14. A
+15. B x //no existe reverse en string
+16. A
+17. A
+18. A
+19. A
+20. B A (P) X //leer  revisar delete
+21. A
+22. D
+23. B x //size
+24. C x //startsWith
+25. C x // diamond operator
+26. C x // leer
+27. B x // leer
+28. C
+29. B
+30. D
+31. D
+32. A x // LocalDate es inmutable
+33. B x //leer
+34. C x // Predicate no necesita el tipo 
+35. C
+36. C
+37. B
+38. B
+39. C
+40. B x // Period no es para tiempo
+41. D
+42. B
+43. C
+44. C
+45. D
+46. B x //CharSequence
+47. C
+48. D
+49. C (P)
+50. C
+

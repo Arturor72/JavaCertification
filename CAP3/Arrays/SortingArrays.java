@@ -13,6 +13,11 @@ public class SortingArrays{
         for(String string: strings){
             System.out.println(string);
         }
+        String[] strings2={"1A","9B","100000C","A2","99","*"};
+        Arrays.sort(strings2);
+        for(String string: strings2){
+            System.out.println(string);
+        }
     }
 
 

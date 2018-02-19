@@ -33,8 +33,8 @@ public class ImportantStringMethods{
         System.out.println("The method charAt(0): " + principal.charAt(0));
         System.out.println("The method charAt(2):" + principal.charAt(2));
         /*  Throws StringIndexOutOfBoundsException
-            System.out.println("The method charAt:" + principal.charAt(4));
-        */
+            System.out.println("The method charAt:" + principal.charAt(7));
+       */ 
     }
 
     private static void indexOfTests(String principal){

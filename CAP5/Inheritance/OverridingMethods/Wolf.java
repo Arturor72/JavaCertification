@@ -5,8 +5,9 @@
 // 4. Si el metodo retorna un valor, este debe ser el mismo o una subclase del metodo en la clase padre (covariant return types)
 public class Wolf extends Canine{
 
-    public double getAverageWeight(){
-        return super.getAverageWeight()+20;
+    public long getAverageWeight(){
+//        return 2;
+        return super.getAverageWeight()+50;
     }
 
     public static void main(String... args){

@@ -1,5 +1,5 @@
 public class Canine{
-    public double getAverageWeight(){
+    public int getAverageWeight(){
         return 50;
     }
 }

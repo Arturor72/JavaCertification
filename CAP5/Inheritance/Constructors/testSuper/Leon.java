@@ -5,6 +5,7 @@ public class Leon extends Felino{
         System.out.println("Leon Constructor");
     }
     public Leon(int a){
+        super(a);
         System.out.println("Overloading Leon Constructor "+a);
     }
 
