@@ -1,7 +1,7 @@
-1. E
+1. E 
 2. E
 3. B, C, F
-4. B, D
+4. B, D X
 5. B, D
 6. A, C, D
 7. C
@@ -11,39 +11,71 @@
 11. A,B,C
 12. B,C
 13. A
-14. C
+14. C X
 15. C, E
-16. C, F
-17. D
+16. C, F X
+17. D X
 18. A
 19. F
-20. D
+20. D X
 21. C
 22. A
 23. A, F, C (Metodo estatico en una clase abstracta?)
 24. D
 25. B,  F
 26. D
-27. E
+27. E X
 28. A
-29. B,C
+29. B,C (e)
 30. E, F
-31. B A
+31. B A x
 32. C
 33. A, D
 34. B, C
 35. E
 36. C*
-37. B, D, E
-38. C
+37. B, D, E X
+38. C 
 39. B, C, E
 40. A,F
 41. D
 42. A, D
 43. B
 44. D
-45. B
+45. B X
 46. C, D
 47. C
-48. 
+48. B, D ,F
+49. C X
+50. D
+51. E
+52. A, E, F
+53. D, E (p)X
+54. A, C, F X
+55. B, E, F
+56. D x
+57. B, C, D
+58. B
+59. C
+60. E, F X
+61. A X
+62. A, C, E
+63. F
+64. B
+65. B x
+66. C x
+67. A x
+68. C x
+69. D
+70. A x
+71. B x
+72. E x
+73. E
+74. A
+75.B, C, D
+76.E
+77.E x
+78.DX
+79.C X
+80. B, E
 
