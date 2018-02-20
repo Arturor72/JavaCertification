@@ -1,17 +1,49 @@
 1. E
 2. E
-3. B,C, F
-4. A, D
+3. B, C, F
+4. B, D
 5. B, D
 6. A, C, D
 7. C
 8. C
 9. D
 10. C
-11. A, B, C
-12.B, C
-13. C
+11. A,B,C
+12. B,C
+13. A
 14. C
-15. C, E 
-16. B, E
-17. 
+15. C, E
+16. C, F
+17. D
+18. A
+19. F
+20. D
+21. C
+22. A
+23. A, F, C (Metodo estatico en una clase abstracta?)
+24. D
+25. B,  F
+26. D
+27. E
+28. A
+29. B,C
+30. E, F
+31. B A
+32. C
+33. A, D
+34. B, C
+35. E
+36. C*
+37. B, D, E
+38. C
+39. B, C, E
+40. A,F
+41. D
+42. A, D
+43. B
+44. D
+45. B
+46. C, D
+47. C
+48. 
+
